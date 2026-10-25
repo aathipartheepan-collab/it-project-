@@ -27,6 +27,21 @@ The project question document uses a practice SLA threshold of **24 hours** for 
 - MySQL
 - Power BI
 
+
+## Dashboard Visuals
+
+PAGE 1
+
+<img width="766" height="430" alt="Screenshot 2026-10-25 170110" src="https://github.com/user-attachments/assets/697e18a7-69f4-400f-9f43-df1d19dae8bc" />
+
+PAGE 2
+
+<img width="767" height="431" alt="Screenshot 2026-10-25 170152" src="https://github.com/user-attachments/assets/785be3b4-3332-47a3-a0ca-1b73ef5c29d5" />
+
+PAGE 3
+
+<img width="763" height="432" alt="Screenshot 2026-10-25 170221" src="https://github.com/user-attachments/assets/92c66ce1-b4d1-4dcb-beb0-c08a79f9911f" />
+
 Author
 Partheepan S
 
@@ -35,4 +50,3 @@ Aspiring Data Analyst
 Skills: SQL, Pandas, Power BI
 - LinkedIn: www.linkedin.com/in/partheepan-s-305b962ab
 - GitHub: https://github.com/aathipartheepan-collab
-
