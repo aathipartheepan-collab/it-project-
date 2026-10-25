@@ -33,6 +33,6 @@ Partheepan S
 Aspiring Data Analyst
 
 Skills: SQL, Pandas, Power BI
-LinkedIn: www.linkedin.com/in/partheepan-s-305b962ab
-GitHub: https://github.com/aathipartheepan-collab
+- LinkedIn: www.linkedin.com/in/partheepan-s-305b962ab
+- GitHub: https://github.com/aathipartheepan-collab
 
