@@ -26,3 +26,13 @@ The project question document uses a practice SLA threshold of **24 hours** for 
 - Python / Pandas
 - MySQL
 - Power BI
+
+Author
+Partheepan S
+
+Aspiring Data Analyst
+
+Skills: SQL, Pandas, Power BI
+LinkedIn: www.linkedin.com/in/partheepan-s-305b962ab
+GitHub: https://github.com/aathipartheepan-collab
+
